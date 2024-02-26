@@ -1,0 +1,57 @@
+{
+    "name": "Stuffed's Repo",
+    "subtitle": "The best games!",
+    "description": "The best games, I have handpicked them myself. They are not on the appstore",
+    "apps": [
+        {
+            "name": "Monument Valley",
+            "bundleIdentifier": "com.ustwo.monumentvalley",
+            "developerName": "ustwo Games Ltd",
+            "subtitle": "** Apple Game of the Year 2014 **\n** Winner of Apple Design Award 2014 **\n\nIn Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world.\n\nMonument Valley is a surreal exploration through fantastical architecture and impossible geometry",
+            "localizedDescription": "Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People.\n\nIda's Dream now available.\n\nForgotten Shores: Eight new chapters of adventure and illusion available now as a separate purchase.\n\nBuy or download Monument Valley now and you\u2019ll also get our fully animated iMessage sticker pack, including 5 stickers exclusive to players! Only available on iOS10 and above.\n\n=======\n\n\"This might be the most beautiful iPad game of 2014\"  - Wired\n\n\"Brilliant design... stayed with me like a dream I didn't want to forget\"  9/10 - Polygon\n\n\"The most sublime hour my iPad has ever given me... and the value of such a thing is incalculable\" - Kotaku\n\n\"Monument Valley stuns with its serenity... each screen is a work of art\" - Huffington Post\n\n\"Almost impossibly gorgeous... a feast for your senses\" 5/5 - Touch Arcade\n\n=======\n\nBEAUTIFUL\n\nInspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore.\n\nEASY TO USE\n\nTwist and drag to reshape the world and help Ida to explore. Designed to be easy for everyone to pick up, enjoy and complete.\n\nSOUND\n\nAudio reacts to your manipulation of the world to provide a surreal and beautiful soundscape. Best experienced with headphones.\n\niCloud\n\nSynchronize your game across all your devices.\n\n** Monument Valley is designed for iPhone 4 and above. It is NOT compatible with iPod Touch 4th Generation.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/ad/ce/53adce5c-3e92-a356-29da-fd6d8671dd52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/ff/3c/1fff3c37-f181-e58e-78a1-d40bfb9577a5/mzl.arnynljb.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/3d/9b/9c3d9bb0-6ae5-f0dd-4349-32aba7f268ec/mzl.sbjggnvt.png/392x696bb.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.202",
+                    "date": "2022-11-04T13:01:06Z",
+                    "localizedDescription": "Bug fixes and general improvements.",
+                    "downloadURL": "LINK_TO_APP.ipa",
+                    "size": "316248064",
+                    "minOSVersion": "11.0",
+                    "maxOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Geometry Dash",
+            "bundleIdentifier": "com.robtop.geometryjump",
+            "developerName": "RobTop Games AB",
+            "subtitle": "Jump and fly your way through danger in this rhythm-based action platformer! \n\n\"Frustratingly wonderful\" - Kotaku\n\n\"Geometry Dash provides all of the challenge expected from an \u201cimpossible\u201d game while also making it more accessible to newcomers.\"\n- 148Apps\n\n\"Geometry Dash is a fast-paced platformer that will leave you screaming in frustration, but you\u2019ll keep coming back for more.\"\n- AppAdvice\n\nPrepare for a near impossible challenge in the world of Geometry Dash",
+            "localizedDescription": "Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles. \n\nSimple one touch game play with lots of levels that will keep you entertained for hours! \n\nGame Features \n\u2022 Rhythm-based Action Platforming! \n\u2022 Lots of levels with unique soundtracks! \n\u2022 Build and share your own levels using the level editor! \n\u2022 Unlock new icons and colors to customize your character! \n\u2022 Fly rockets, flip gravity and much more! \n\u2022 Use practice mode to sharpen your skills! \n\u2022 Game Center achievements with rewards!\n\u2022 Challenge yourself with the near impossible!\n\nContact: info@robtopgames.com",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/0f/c8/be0fc825-5752-9e3a-6ab3-03b8855aca35/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/5e/ed/435eed9c-4f92-de2f-c78b-534d401f9b20/mzl.dtmpvtgj.jpg/406x228bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/ab/67/06ab6779-2103-15f9-3eab-b16cc4134945/mzl.qimiaqwe.jpg/406x228bb.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.205",
+                    "date": "2024-01-22T11:22:17Z",
+                    "localizedDescription": "Update 2.205 Patch Notes\n\n- Changed Platformer default sliding.\n- Added more Platformer sliding options.\n- Added in-depth Demon/Stars/Moon display on profile.\n- Added coyote time when jumping off platforms in Platformer.\n- Added Practice mode to Platformer.\n- Added option to see hitboxes in Practice mode.\n- Changed how profile statistics are displayed.\n- Lowered the prices on many of the new items.\n- Added some editor tools: individual object scaling, half grid movement, and falling events.\n- Added fast menu (decreases transitions between pages).\n- Lots of bugfixes and tweaks.\n\n/RubRub",
+                    "downloadURL": "LINK_TO_APP.ipa",
+                    "size": "196203520",
+                    "minOSVersion": "12.0",
+                    "maxOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {}
+        }
+    ]
+}
